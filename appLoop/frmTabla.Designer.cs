@@ -35,6 +35,7 @@
             this.txtResultado = new System.Windows.Forms.TextBox();
             this.btnResultado = new System.Windows.Forms.Button();
             this.btnSalida = new System.Windows.Forms.Button();
+            this.lstTabla = new System.Windows.Forms.ListBox();
             this.SuspendLayout();
             // 
             // label1
@@ -113,11 +114,21 @@
             this.btnSalida.UseVisualStyleBackColor = true;
             this.btnSalida.Click += new System.EventHandler(this.button2_Click);
             // 
+            // lstTabla
+            // 
+            this.lstTabla.FormattingEnabled = true;
+            this.lstTabla.Location = new System.Drawing.Point(473, 121);
+            this.lstTabla.Name = "lstTabla";
+            this.lstTabla.ScrollAlwaysVisible = true;
+            this.lstTabla.Size = new System.Drawing.Size(123, 108);
+            this.lstTabla.TabIndex = 7;
+            // 
             // frmTabla
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.lstTabla);
             this.Controls.Add(this.btnSalida);
             this.Controls.Add(this.btnResultado);
             this.Controls.Add(this.txtResultado);
@@ -141,5 +152,6 @@
         private System.Windows.Forms.TextBox txtResultado;
         private System.Windows.Forms.Button btnResultado;
         private System.Windows.Forms.Button btnSalida;
+        private System.Windows.Forms.ListBox lstTabla;
     }
 }

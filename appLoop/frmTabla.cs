@@ -34,13 +34,16 @@ namespace appLoop
 
         private void btnResultado_Click(object sender, EventArgs e)
         {
-            int tabla = Int32.Parse(this.txtTabla.Text);
+            int tabla = Convert.ToInt32(this.txtTabla.Text);
             string aux = "";
+            lstTabla.Items.Clear();
             for (int i = 0; i <= 12; i++)
             {
-                aux += $"{tabla} x {i} = {tabla * i} \r\n";
+                string cad = $"{tabla} x {i} = {tabla * i}\r\n";
+                aux += cad;
                 aux += "";
                 this.txtResultado.Text = aux;
+                lstTabla.Items.Add(cad);
             }
         }
     }
