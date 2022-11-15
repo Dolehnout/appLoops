@@ -16,7 +16,7 @@ namespace appLoop
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmWhileLoop());
+            Application.Run(new frmTabla());
         }
     }
 }

@@ -20,3 +20,15 @@ C:\Users\USER\Desktop\appLoop\appLoop\obj\Debug\appLoop.csproj.GenerateResource.
 C:\Users\USER\Desktop\appLoop\appLoop\obj\Debug\appLoop.csproj.CoreCompileInputs.cache
 C:\Users\USER\Desktop\appLoop\appLoop\obj\Debug\appLoop.exe
 C:\Users\USER\Desktop\appLoop\appLoop\obj\Debug\appLoop.pdb
+C:\Users\USER\Desktop\Loops\appLoops\appLoop\bin\Debug\appLoop.exe.config
+C:\Users\USER\Desktop\Loops\appLoops\appLoop\bin\Debug\appLoop.exe
+C:\Users\USER\Desktop\Loops\appLoops\appLoop\bin\Debug\appLoop.pdb
+C:\Users\USER\Desktop\Loops\appLoops\appLoop\obj\Debug\appLoop.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Loops\appLoops\appLoop\obj\Debug\appLoop.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\Loops\appLoops\appLoop\obj\Debug\appLoop.frmWhileLoop.resources
+C:\Users\USER\Desktop\Loops\appLoops\appLoop\obj\Debug\appLoop.Properties.Resources.resources
+C:\Users\USER\Desktop\Loops\appLoops\appLoop\obj\Debug\appLoop.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Loops\appLoops\appLoop\obj\Debug\appLoop.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Loops\appLoops\appLoop\obj\Debug\appLoop.exe
+C:\Users\USER\Desktop\Loops\appLoops\appLoop\obj\Debug\appLoop.pdb
+C:\Users\USER\Desktop\Loops\appLoops\appLoop\obj\Debug\appLoop.frmTabla.resources
