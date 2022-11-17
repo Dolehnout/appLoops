@@ -46,11 +46,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="frmDecimal.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="frmDecimal.Designer.cs">
+      <DependentUpon>frmDecimal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBinario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBinario.Designer.cs">
+      <DependentUpon>frmBinario.cs</DependentUpon>
     </Compile>
     <Compile Include="frmTabla.cs">
       <SubType>Form</SubType>
@@ -66,8 +72,11 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="frmDecimal.resx">
+      <DependentUpon>frmDecimal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBinario.resx">
+      <DependentUpon>frmBinario.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmTabla.resx">
       <DependentUpon>frmTabla.cs</DependentUpon>
