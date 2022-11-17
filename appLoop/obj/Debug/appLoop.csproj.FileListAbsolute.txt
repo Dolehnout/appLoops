@@ -32,3 +32,16 @@ C:\Users\USER\Desktop\Loops\appLoops\appLoop\obj\Debug\appLoop.csproj.CoreCompil
 C:\Users\USER\Desktop\Loops\appLoops\appLoop\obj\Debug\appLoop.exe
 C:\Users\USER\Desktop\Loops\appLoops\appLoop\obj\Debug\appLoop.pdb
 C:\Users\USER\Desktop\Loops\appLoops\appLoop\obj\Debug\appLoop.frmTabla.resources
+C:\gemaakt\appLoops\appLoop\bin\Debug\appLoop.exe.config
+C:\gemaakt\appLoops\appLoop\bin\Debug\appLoop.exe
+C:\gemaakt\appLoops\appLoop\bin\Debug\appLoop.pdb
+C:\gemaakt\appLoops\appLoop\obj\Debug\appLoop.csproj.AssemblyReference.cache
+C:\gemaakt\appLoops\appLoop\obj\Debug\appLoop.csproj.SuggestedBindingRedirects.cache
+C:\gemaakt\appLoops\appLoop\obj\Debug\appLoop.frmTabla.resources
+C:\gemaakt\appLoops\appLoop\obj\Debug\appLoop.frmWhileLoop.resources
+C:\gemaakt\appLoops\appLoop\obj\Debug\appLoop.Properties.Resources.resources
+C:\gemaakt\appLoops\appLoop\obj\Debug\appLoop.csproj.GenerateResource.cache
+C:\gemaakt\appLoops\appLoop\obj\Debug\appLoop.csproj.CoreCompileInputs.cache
+C:\gemaakt\appLoops\appLoop\obj\Debug\appLoop.exe
+C:\gemaakt\appLoops\appLoop\obj\Debug\appLoop.pdb
+C:\gemaakt\appLoops\appLoop\obj\Debug\appLoop.frmBinario.resources
