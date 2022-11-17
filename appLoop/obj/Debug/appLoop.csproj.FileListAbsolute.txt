@@ -45,3 +45,17 @@ C:\gemaakt\appLoops\appLoop\obj\Debug\appLoop.csproj.CoreCompileInputs.cache
 C:\gemaakt\appLoops\appLoop\obj\Debug\appLoop.exe
 C:\gemaakt\appLoops\appLoop\obj\Debug\appLoop.pdb
 C:\gemaakt\appLoops\appLoop\obj\Debug\appLoop.frmBinario.resources
+C:\Users\USER\Desktop\Program\C#\appLoops\appLoop\bin\Debug\appLoop.exe.config
+C:\Users\USER\Desktop\Program\C#\appLoops\appLoop\bin\Debug\appLoop.exe
+C:\Users\USER\Desktop\Program\C#\appLoops\appLoop\bin\Debug\appLoop.pdb
+C:\Users\USER\Desktop\Program\C#\appLoops\appLoop\obj\Debug\appLoop.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Program\C#\appLoops\appLoop\obj\Debug\appLoop.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\Program\C#\appLoops\appLoop\obj\Debug\appLoop.frmDecimal.resources
+C:\Users\USER\Desktop\Program\C#\appLoops\appLoop\obj\Debug\appLoop.frmBinario.resources
+C:\Users\USER\Desktop\Program\C#\appLoops\appLoop\obj\Debug\appLoop.frmTabla.resources
+C:\Users\USER\Desktop\Program\C#\appLoops\appLoop\obj\Debug\appLoop.frmWhileLoop.resources
+C:\Users\USER\Desktop\Program\C#\appLoops\appLoop\obj\Debug\appLoop.Properties.Resources.resources
+C:\Users\USER\Desktop\Program\C#\appLoops\appLoop\obj\Debug\appLoop.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Program\C#\appLoops\appLoop\obj\Debug\appLoop.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Program\C#\appLoops\appLoop\obj\Debug\appLoop.exe
+C:\Users\USER\Desktop\Program\C#\appLoops\appLoop\obj\Debug\appLoop.pdb

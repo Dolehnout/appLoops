@@ -36,10 +36,45 @@ namespace appLoop
         private void btnCalcular_Click(object sender, EventArgs e)
         {
             int suma = 0;
-            if (chk1.Checked == true)
+            if (chk1.Checked)
             {
                 suma += 1;
             }
+            if (chk2.Checked)
+            {
+                suma += 2;
+            }
+            if (chk3.Checked)
+            {
+                suma += 4;
+            }
+            if (chk4.Checked)
+            {
+                suma += 8;
+            }
+            if (chk5.Checked)
+            {
+                suma += 16;
+            }
+            if (chk6.Checked)
+            {
+                suma += 32;
+            }
+            if (chk7.Checked)
+            {
+                suma += 64;
+            }
+            if (chk8.Checked)
+            {
+                suma += 128;
+            }
+
+            this.txtDecimal.Text = suma.ToString();
+        }
+
+        private void txtDecimal_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
